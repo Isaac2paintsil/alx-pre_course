@@ -29,3 +29,6 @@ bash: syntax error near unexpected token `('
 root@9da8163e087f:/# To https://github.com/{isaac2paintsil}/alx-pre_course.git
 bash: To: command not found
 root@9da8163e087f:/# 
+root@9da8163e087f:/# 0x01-git
+bash: 0x01-git: command not found
+root@9
